@@ -1,0 +1,97 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789689776395,
+      "tag": "0000_import_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789689791401,
+      "tag": "0001_media_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789689794646,
+      "tag": "0002_gemini_key_pool",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789689806248,
+      "tag": "0003_voice_settings_and_gemini_image",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789700818669,
+      "tag": "0004_import_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789700830661,
+      "tag": "0005_voice_engines_defaults",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1789700845698,
+      "tag": "0006_media_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1789702907862,
+      "tag": "0007_20260916201432_1842f061_c691_4284_9971_6da23997dc53",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1789702919475,
+      "tag": "0008_gemini_key_pool",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1789702926306,
+      "tag": "0009_voice_settings_and_gemini_image",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1789703023211,
+      "tag": "0010_media_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1789736445274,
+      "tag": "0011_import_base_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1789736515067,
+      "tag": "0012_import_storage_keys_and_providers",
+      "breakpoints": true
+    }
+  ]
+}
