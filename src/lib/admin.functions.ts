@@ -136,8 +136,8 @@ export const getAdminData = createServerFn({ method: "GET" })
     const rawDefaults = (settings.get("defaults") ?? {}) as Record<string, string>;
     const defaults = {
       llm: rawDefaults["llm"] ?? "gemini-flash",
-      tts: rawDefaults["tts"] ?? "edge-tts",
-      image: rawDefaults["image"] ?? "pollinations",
+      tts: rawDefaults["tts"] ?? "gemini-tts",
+      image: rawDefaults["image"] ?? "gemini-image",
     };
     const zeroCostMode = Boolean(
       (settings.get("zero_cost_mode") as { enabled?: boolean } | undefined)?.enabled,
