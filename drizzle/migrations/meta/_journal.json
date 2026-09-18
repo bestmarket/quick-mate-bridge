@@ -78,6 +78,13 @@
       "when": 1789703023211,
       "tag": "0010_media_storage_policies",
       "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1789736445274,
+      "tag": "0011_import_base_schema",
+      "breakpoints": true
     }
   ]
 }
