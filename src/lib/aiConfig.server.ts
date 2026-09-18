@@ -32,8 +32,8 @@ let cache: { at: number; providers: ProviderRow[]; defaults: Record<string, stri
 
 const FALLBACK_DEFAULTS: Record<Category, string> = {
   llm: "gemini-flash",
-  tts: "edge-tts",
-  image: "pollinations",
+  tts: "gemini-tts",
+  image: "gemini-image",
 };
 
 async function admin() {
