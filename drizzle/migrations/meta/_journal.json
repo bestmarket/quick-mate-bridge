@@ -85,6 +85,13 @@
       "when": 1789736445274,
       "tag": "0011_import_base_schema",
       "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1789736515067,
+      "tag": "0012_import_storage_keys_and_providers",
+      "breakpoints": true
     }
   ]
 }
